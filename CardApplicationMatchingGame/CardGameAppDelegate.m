@@ -1,18 +1,18 @@
 //
-//  AppDelegate.m
+//  CardGameAppDelegate.m
 //  CardApplicationMatchingGame
 //
 //  Created by Joshua M. Sacks on 9/22/14.
 //  Copyright (c) 2014 JMEventSolutions. All rights reserved.
 //
 
-#import "AppDelegate.h"
+#import "CardGameAppDelegate.h"
 
-@interface AppDelegate ()
+@interface CardGameAppDelegate ()
 
 @end
 
-@implementation AppDelegate
+@implementation CardGameAppDelegate
             
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {

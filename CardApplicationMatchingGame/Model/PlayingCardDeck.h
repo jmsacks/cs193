@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  PlayingCardDeck.h
 //  CardApplicationMatchingGame
 //
 //  Created by Joshua M. Sacks on 9/22/14.
 //  Copyright (c) 2014 JMEventSolutions. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "Deck.h"
 
-@interface ViewController : UIViewController
-
+@interface PlayingCardDeck : Deck
 
 @end
-
